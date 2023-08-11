@@ -2,8 +2,8 @@
 
 ### Goal: Make anyone speak anything (LipSync)
 #### Step1: Setup Wav2Lip
-Install dependency
-Download pretrained model
+Install dependency,
+Download pretrained model,
 ##  LipSync Youtube Video
 #### STEP2: Select a Youtube Video
 #### STEP3: Select Audio (Record, Upload from local drive or Gdrive)
