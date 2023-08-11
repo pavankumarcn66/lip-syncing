@@ -13,5 +13,11 @@ Download pretrained model,
 ## LipSync on Your Video File
 #### STEP2: Select Video (Upload from local drive or Gdrive)
 #### STEP3: Select Audio (Record, Upload from local drive or Gdrive)
-#### STEP4: Start Crunching and Preview Output
+#### STEP4: Start Crunching and Preview Output(change given below values and evaluate the ouput performance)
+     pad_top:
+     pad_bottom:
+     pad_left:
+     pad_right:
+     rescaleFactor:
+     nosmooth:
       
