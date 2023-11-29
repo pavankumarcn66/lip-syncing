@@ -1,5 +1,4 @@
-## Easy-Wav2Lip improves Wav2Lip video lipsyncing making it:
-
+## Lip Sync
 ## Easier:
 * Simple setup and execution - locally and via colab.
      * no messing around manually downloading and installing prerequesits
