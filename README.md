@@ -1,4 +1,5 @@
 ## Lip Sync
+https://github.com/pavankumarcn66/lip-syncing/blob/main/inputvideo.mp4
 ## Easier:
 * Simple setup and execution - locally and via colab.
      * no messing around manually downloading and installing prerequesits
