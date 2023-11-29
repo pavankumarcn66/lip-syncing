@@ -1,4 +1,4 @@
-# Easy-Wav2Lip
+# LIP_SYNCING_audio&video
 
 ## Description
 Easy-Wav2Lip is a simple tool for syncing audio to a video, with various options for quality and processing speed.
