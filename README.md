@@ -16,7 +16,7 @@ Easy-Wav2Lip is a simple tool for syncing audio to a video, with various options
 
 ## Input Files
 - Video File: [https://github.com/pavankumarcn66/lip-syncing/blob/main/inputvideo.mp4]
-- Vocal File: [Insert path to the input audio file]
+- Vocal File: [https://github.com/pavankumarcn66/lip-syncing/blob/main/audio.wav]
 
 ## Output
 - Output Video: [Insert path to the output video file]
