@@ -25,7 +25,7 @@ The tracking data is saved between generations of the same video, saving even mo
 
 Easy-Wav2Lip fixes visual bugs on the lips:
 
-[![Comparison gif](https://github.com/anothermartz/Easy-Wav2Lip/releases/download/Prerequesits/wav2lipcomparison.gif)](https://github.com/anothermartz/Easy-Wav2Lip/releases/download/Prerequesits/wav2lipcomparison.gif)
+[![Comparison gif](https://github.com/pavankumarcn66/lip-syncing/blob/main/inputvideo.mp4)](https://github.com/anothermartz/Easy-Wav2Lip/releases/download/Prerequesits/wav2lipcomparison.gif)
 
 3 Options for Quality:
 * Fast: Wav2Lip
